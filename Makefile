@@ -1,5 +1,5 @@
 PKG_NAME := pypi-etuples
-URL = https://files.pythonhosted.org/packages/33/d6/64b537465fc73c5b6f1d57f42570a207b9409c670dc1ec33fc8fa79ef95f/etuples-0.3.7.tar.gz
+URL = https://files.pythonhosted.org/packages/7d/74/d5fea869cf375445a0aea3a4f5e0eebfc660d099712dffe8309cbfe0f8e6/etuples-0.3.8.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
