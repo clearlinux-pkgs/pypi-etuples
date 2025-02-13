@@ -5,7 +5,7 @@
 #
 Name     : pypi-etuples
 Version  : 0.3.9
-Release  : 21
+Release  : 22
 URL      : https://files.pythonhosted.org/packages/22/60/134940a09d03786ad7267e53458a749e2f4bfaf1efd672363e87a4a13561/etuples-0.3.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/22/60/134940a09d03786ad7267e53458a749e2f4bfaf1efd672363e87a4a13561/etuples-0.3.9.tar.gz
 Summary  : Python S-expression emulation using tuple-like objects.
